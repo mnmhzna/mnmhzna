@@ -2,6 +2,6 @@
 - 👀 I’m interested in GIS, Geomatics, Data Science, and Software Development.
 - 🌱 I’m currently learning advanced geomatics, data visualization, and machine learning applications in geographic information systems.
 - 💞️ I’m looking to collaborate on open-source GIS projects, data analysis, and any innovative tech applications in the geospatial field.
-- 📫 How to reach me: Feel free to reach out via email at [mmuhsina184@gmail.	com]
+- 📫 How to reach me: Feel free to reach out via email at [mmuhsina184@gmail.com]
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I love combining technology and nature! When I’m not coding, you can find me hiking with my GPS tracker, mapping out new routes.
